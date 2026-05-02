@@ -1,0 +1,14 @@
+/Users/test/Egitim/OgrenciNotSistemi/bin/Debug/net10.0/OgrenciNotSistemi
+/Users/test/Egitim/OgrenciNotSistemi/bin/Debug/net10.0/OgrenciNotSistemi.deps.json
+/Users/test/Egitim/OgrenciNotSistemi/bin/Debug/net10.0/OgrenciNotSistemi.runtimeconfig.json
+/Users/test/Egitim/OgrenciNotSistemi/bin/Debug/net10.0/OgrenciNotSistemi.dll
+/Users/test/Egitim/OgrenciNotSistemi/bin/Debug/net10.0/OgrenciNotSistemi.pdb
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.AssemblyInfoInputs.cache
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.AssemblyInfo.cs
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.csproj.CoreCompileInputs.cache
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.dll
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/refint/OgrenciNotSistemi.dll
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.pdb
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.genruntimeconfig.cache
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/ref/OgrenciNotSistemi.dll

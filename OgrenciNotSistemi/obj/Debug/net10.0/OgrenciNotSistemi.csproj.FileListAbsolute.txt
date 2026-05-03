@@ -12,3 +12,4 @@
 /Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.pdb
 /Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.genruntimeconfig.cache
 /Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/ref/OgrenciNotSistemi.dll
+/Users/test/Egitim/OgrenciNotSistemi/obj/Debug/net10.0/OgrenciNotSistemi.sourcelink.json

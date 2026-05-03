@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OgrenciNotSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f3712d14d79061b6f0f8842300c51f675fcd2bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3aa60e53eb7b3c2a0ba9ba6a5b4955f60ae45c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OgrenciNotSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OgrenciNotSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
